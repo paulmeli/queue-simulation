@@ -1,4 +1,4 @@
-# project4-cis200-w19
+# queue-simulation
 
 How to compile is Visual Studio Code
 
